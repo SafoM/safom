@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+Project 1
+Arch Linux Desktop Installation
+-
+Robotics: Robot Operating System
+- Noetic Ninjemys (May 2020 - 2025)
+Project 2
+Automation: Chatbot, Voicebot, Videobot
+Project 3
+Sound: Background music of videos, 
+Project 4
+Games | Database
+Project 5
+Aviation
+Project 6
+Space
+Mission
+Purpose & Problem
+Build, Sustain, Automate, using Technology
+[Malcolm Safo](http://kwabenasafo.com)
+-->
