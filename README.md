@@ -8,7 +8,7 @@ Hardware | Raspberry Pi | Asus Chromebook | Desktop | Server
 Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | x86_64
 Processor | Broadcom BCM2837 1.2Ghz | Rockchip RK3288 1.8Ghz | Virtual Machine 
 RAM | 1GB | 2GB | 1024MB
-Disk | 16GB microSD | 16GB eMMC / 16GB microSD | 8GB
+Disk | 16GB microSD | 16GB eMMC / 16GB microSD | 120GBSSD/500GBHDD/120GBSSD
 Network | B/G/N, Bluetooth | B/G/N/AC | NAT/Internal
 OS | Client Desktop | Client Laptop | Server Router
 Repo | Arch Linux | Arch Linux | Ubuntu | Arch
