@@ -3,8 +3,8 @@ Welcome,
 Feel free to check out my latest work.
 -->
 ### System Administration
-Hardware | Raspberry Pi | Asus Chromebook | Desktop | Server
---------- | ---------- | ----------------- | ------ | ------
+Hardware | Raspberry Pi | Asus Chromebook | Desktop 
+--------- | ---------- | ----------------- | ------ 
 Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | x86_64
 Processor | Broadcom BCM2837 1.2Ghz | Rockchip RK3288 1.8Ghz | Virtual Machine 
 RAM | 1GB | 2GB | 1024MB
