@@ -1,17 +1,14 @@
 Welcome, 
-<!--
-Feel free to check out my latest work.
--->
 ### System Administration
-Hardware | Raspberry Pi | Asus Chromebook | Desktop 
---------- | ---------- | ----------------- | ------ 
-Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | x86_64
-Processor | Broadcom BCM2837 1.2Ghz | Rockchip RK3288 1.8Ghz | Virtual Machine 
-RAM | 1GB | 2GB | 1024MB
-Disk | 16GB microSD | 16GB eMMC / 16GB microSD | 120GBSSD/500GBHDD/120GBSSD
-Network | B/G/N, Bluetooth | B/G/N/AC | NAT/Internal
-OS | Client Desktop | Client Laptop | Server Router
-Repo | Arch Linux | Arch Linux | Ubuntu | Arch
+Hardware | Raspberry Pi | Asus Chromebook | Desktop | Virtual Machines 
+--------- | ---------- | ----------------- | ------ | -------
+Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | Intel | virtual
+Processor | Broadcom BCM2837 1.2Ghz | Rockchip RK3288 1.8Ghz | i5-760@2.80GHz x4 | N/A 
+RAM | 1GB | 2GB | 1024MB | 8GB | 2GB
+Disk | 16GB microSD | 16GB eMMC / 16GB microSD | 500GB HDD 120GB SSD | N/A
+Network | B/G/N, Bluetooth | B/G/N/AC | N/A | Internal
+OS | IoT | Laptop | Desktop | Server
+Distro | Arch Linux  | Arch | Arch | Ubunu
 
 ### Web Apps
 * Fashion
