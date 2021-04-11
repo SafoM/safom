@@ -4,7 +4,7 @@ Hardware | Raspberry Pi | Asus Chromebook | Desktop | Virtual Machines
 --------- | ---------- | ----------------- | ------ | -------
 Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | Intel | virtual
 Processor | Broadcom BCM2837 1.2Ghz | Rockchip RK3288 1.8Ghz | i5-760@2.80GHz x4 | N/A 
-RAM | 1GB | 2GB | 1024MB | 8GB | 2GB
+RAM | 1GB | 2GB | 8GB | 2GB
 Disk | 16GB microSD | 16GB eMMC / 16GB microSD | 500GB HDD 120GB SSD | N/A
 Network | B/G/N, Bluetooth | B/G/N/AC | N/A | Internal
 OS | IoT | Laptop | Desktop | Server
