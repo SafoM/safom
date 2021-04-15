@@ -10,6 +10,16 @@ Network | B/G/N, Bluetooth | B/G/N/AC | N/A | Internal
 OS | IoT | Laptop | Desktop | Server
 Distro | Arch Linux  | Arch | Arch | Ubunu
 
+Disk Partitioning
+
+BIOS/GPT/LVM size
+/     = 25GB   ext4
+/boot = 1GB    ext4
+/var  = 18GB   ext4
+/home = ~100GB ext4 
+/swap = 12GB   mkswap
+
+
 ### Web Apps
 * Fashion
   * [The Culture Shock Show](www.thecultureshockshow.com) is a web archive of past events. [![Netlify Status](https://api.netlify.com/api/v1/badges/c0498c72-b214-4a05-873a-acad3877cf67/deploy-status)](https://app.netlify.com/sites/relaxed-cray-340501/deploys) 
