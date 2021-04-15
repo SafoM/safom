@@ -10,7 +10,7 @@ Network | B/G/N, Bluetooth | B/G/N/AC | N/A | Internal
 OS | IoT | Laptop | Desktop | Server
 Distro | Arch Linux  | Arch | Arch | Ubunu
 
-Disk Partitioning
+Disk Partition Format Mount 
 
 BIOS/GPT/LVM size
 /     = 25GB   ext4
