@@ -10,14 +10,13 @@ Network | B/G/N, Bluetooth | B/G/N/AC | N/A | Internal
 OS | IoT | Laptop | Desktop | Server
 Distro | Arch Linux  | Arch | Arch | Ubunu
 
-Disk Partition Format Mount 
 
-BIOS/GPT/LVM size
-/     = 25GB   ext4
-/boot = 1GB    ext4
-/var  = 18GB   ext4
-/home = ~100GB ext4 
-/swap = 12GB   mkswap
+BIOS/GPT/LVM
+*unused* 1MiB 
+/boot =  1GB    ext4
+/     =  25GB   ext4
+/home =  *remainder* ext4 
+
 
 
 ### Web Apps
