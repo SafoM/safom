@@ -1,4 +1,10 @@
 Welcome, 
+
+Join me as I learn to develop the web.
+
+
+Malcolm S.
+<!--
 ### System Administration
 Hardware | Raspberry Pi | Asus Chromebook | Desktop | Virtual Machines 
 --------- | ---------- | ----------------- | ------ | -------
@@ -27,7 +33,7 @@ BIOS/GPT/LVM
 * Restaruant 
   * [Fing Bomb Fried Chicken](http://www.fingbomb.com/) was deployed using WordPress on Google Cloud Compute Engine. 
   * - [ ] Resolve Domain Name
-
+-->
 
 <!--
 ### Offline Apps
