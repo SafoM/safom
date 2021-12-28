@@ -1,6 +1,8 @@
 Welcome, 
 
-Join me as I learn to develop the web.
+Goals
+
+Check out my development server http:/www.oceanveda.com
 
 
 Malcolm S.
