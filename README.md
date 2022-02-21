@@ -1,12 +1,69 @@
-Welcome, 
 
-Goals
+Welcome to my ideas described as code.
 
-Check out my development server http:/www.oceanveda.com
+## Table of Contents
+
+- Personal Computer Build [View]()
+
+- Hardware Engineering    [View]()
+
+- Web Applications        [View]()
+
+- DevOps at Home          [View]()
 
 
-Malcolm S.
+
+
+
+
+
+
+#
+#
+### PC Build 
+
+
+###### Future Build
+
+CPU Architecture Information
+Processor AMD Ryzen 5 5600X 3.7 GHz 6-Core 
+Motherboard Asus PRIME X570-P ATX AM4 
+Graphics  AMD Radeon™ RX 6800 XT - https://www.amd.com/en/graphics/radeon-rx-graphics
+
+#
+#
+### Web Applications
+
+
+###### Ocean Veda
+
+Using AWS to practice Domain Name System with Route 53 and S3, and  using Lambda to facilitate end user communication via email. 
+
+- http:/www.oceanveda.com
+
+
+
+
+### SRE 
+Bonsai - Terraform Production using Vagrant with 8GB RAM
+
+
+AWS > IAM > Users > create user > ensure Access key - Programmatic access > permissions
+
+
+
+#
+#
+#
+#
+## Contact 
+
+- malcolmsafo AT gmail DOT com
+
+- https://www.linkedin.com/in/malcolmsafo
 <!--
+https://aws.amazon.com/architecture/
+https://github.com/aws-samples/aws-refarch-wordpress?did=wp_card&trk=wp_card
 ### System Administration
 Hardware | Raspberry Pi | Asus Chromebook | Desktop | Virtual Machines 
 --------- | ---------- | ----------------- | ------ | -------
