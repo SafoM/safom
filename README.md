@@ -1,41 +1,36 @@
 
-Welcome to my ideas described as code.
+Welcome to my ideas described as code while I make it my goal to automate cooking.
 
+
+<!-- Table of Contents -->
 ## Table of Contents
-
-- Personal Computer Build [View]()
-
-- Hardware Engineering    [View]()
-
-- Web Applications        [View]()
-
-- DevOps at Home          [View]()
-
-
-
-
-
-
-
-
 #
-#
+
+- Personal Computer Build [View](https://github.com/SafoM#pc-build)
+
+- Hardware Engineering    ~~Coming Soon~~
+
+- Web Applications        [View](https://github.com/SafoM#web-applications)
+
+- DevOps at Home          [View](https://github.com/SafoM#sre)
+
+
+
+
 ### PC Build 
 
 
-###### Future Build
+#### Current Build
 
-CPU Architecture Information
-Processor AMD Ryzen 5 5600X 3.7 GHz 6-Core 
-Motherboard Asus PRIME X570-P ATX AM4 
-Graphics  AMD Radeon™ RX 6800 XT - https://www.amd.com/en/graphics/radeon-rx-graphics
+#### Future Build
+- https://ca.pcpartpicker.com/user/Trieze.Khushrenada/saved/#view=9DcmkL 
 
-#
-#
+
+
 ### Web Applications
 
 
-###### Ocean Veda
+#### Ocean Veda
 
 Using AWS to practice Domain Name System with Route 53 and S3, and  using Lambda to facilitate end user communication via email. 
 
@@ -45,17 +40,16 @@ Using AWS to practice Domain Name System with Route 53 and S3, and  using Lambda
 
 
 ### SRE 
-Bonsai - Terraform Production using Vagrant with 8GB RAM
 
+#### Bonsai Infrastructure
+
+- [Bonsai](https://github.com/SafoM/tf_prod_bonsai)  - Terraform production code using Vagrant with an 8GB RAM host system
 
 AWS > IAM > Users > create user > ensure Access key - Programmatic access > permissions
 
 
 
-#
-#
-#
-#
+<!-- Contact Footer -->
 ## Contact 
 
 - malcolmsafo AT gmail DOT com
@@ -64,7 +58,6 @@ AWS > IAM > Users > create user > ensure Access key - Programmatic access > perm
 <!--
 https://aws.amazon.com/architecture/
 https://github.com/aws-samples/aws-refarch-wordpress?did=wp_card&trk=wp_card
-### System Administration
 Hardware | Raspberry Pi | Asus Chromebook | Desktop | Virtual Machines 
 --------- | ---------- | ----------------- | ------ | -------
 Architecture | ARMv8 Cortex-A53 | ARMv7 Cortex-A17 | Intel | virtual
@@ -82,9 +75,6 @@ BIOS/GPT/LVM
 /     =  25GB   ext4
 /home =  *remainder* ext4 
 
-
-
-### Web Apps
 * Fashion
   * [The Culture Shock Show](www.thecultureshockshow.com) is a web archive of past events. [![Netlify Status](https://api.netlify.com/api/v1/badges/c0498c72-b214-4a05-873a-acad3877cf67/deploy-status)](https://app.netlify.com/sites/relaxed-cray-340501/deploys) 
   * - [x] Migrate from [Google Cloud](cloud.google.com) to [Netlify](www.netlify.com).
@@ -92,33 +82,11 @@ BIOS/GPT/LVM
 * Restaruant 
   * [Fing Bomb Fried Chicken](http://www.fingbomb.com/) was deployed using WordPress on Google Cloud Compute Engine. 
   * - [ ] Resolve Domain Name
--->
 
-<!--
-### Offline Apps
-1. outlines the method to implement a relational database at the technical level. It is used to track the serial ID of computer assets, and the logistics
-2. A relational database using the entity-relationship (ER) model to create a booking system. Attached is an example model made for my past employment. It is the technical implementation of a database for tracking assets and logistical operations developed using Microsoft Access. The primary focus was to move away from the unreliable tracking workflow provided by Microsoft Excel. Databases: ER RDBM Model, Microsoft Access
--->
-
-<!--
-Website: [Project Veda](www.kwabenasafo.com). 
-Mission
-Purpose & Problem
-Build, Sustain, Automate, using Technology
-### Future Projects
-Project 1
 Robotics: Robot Operating System
-- Noetic Ninjemys (May 2020 - 2025)
-Project 2
 Automation: Chatbot, Voicebot, Videobot
-Project 3
 Sound: Background music of videos, 
-Project 4
 Games | Database
-Project 5
-Aviation
-Project 6
-Space
 Fashion blog application: register, log in, posts (create, edit, delete), reveiw magazines, view designer collection, design own magazine
 -->
 
