@@ -1,52 +1,45 @@
 
-Welcome to my ideas described as code while I make it my goal to automate cooking.
+Welcome to my ideas described as code. My goal it to automate home cooking.
 
 
 <!-- Table of Contents -->
 ## Table of Contents
-#
 
-- Personal Computer Build [View](https://github.com/SafoM#pc-build)
+- [Personal Computer Build](https://github.com/SafoM#personal-computer-build)
 
 - Hardware Engineering    ~~Coming Soon~~
 
-- Web Applications        [View](https://github.com/SafoM#web-applications)
+- [Web Applications](https://github.com/SafoM#web-applications)
 
-- DevOps at Home          [View](https://github.com/SafoM#sre)
-
-
+- [DevHomeOps](https://github.com/SafoM#devhomeops)
 
 
-### PC Build 
-
+### Personal Computer Build
 
 #### Current Build
 
 #### Future Build
 - https://ca.pcpartpicker.com/user/Trieze.Khushrenada/saved/#view=9DcmkL 
-
+#
 
 
 ### Web Applications
 
-
 #### Ocean Veda
 
-Using AWS to practice Domain Name System with Route 53 and S3, and  using Lambda to facilitate end user communication via email. 
-
-- http:/www.oceanveda.com
-
+[Ocean Veda](http://www.oceanveda.com) is using AWS to practice Domain Name System with Route 53 and S3, and  using Lambda to facilitate end user communication via email. 
+#
 
 
 
-### SRE 
+### DevHomeOps 
 
 #### Bonsai Infrastructure
 
 - [Bonsai](https://github.com/SafoM/tf_prod_bonsai)  - Terraform production code using Vagrant with an 8GB RAM host system
 
 AWS > IAM > Users > create user > ensure Access key - Programmatic access > permissions
-
+#
 
 
 <!-- Contact Footer -->
@@ -55,6 +48,7 @@ AWS > IAM > Users > create user > ensure Access key - Programmatic access > perm
 - malcolmsafo AT gmail DOT com
 
 - https://www.linkedin.com/in/malcolmsafo
+#
 <!--
 https://aws.amazon.com/architecture/
 https://github.com/aws-samples/aws-refarch-wordpress?did=wp_card&trk=wp_card
