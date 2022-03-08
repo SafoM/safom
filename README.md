@@ -7,20 +7,11 @@ Welcome to my ideas described as code. My goal it to automate home cooking.
 
 - [Personal Computer Build](https://github.com/SafoM#personal-computer-build)
 
-- Hardware Engineering    ~~Coming Soon~~
-
 - [Web Applications](https://github.com/SafoM#web-applications)
 
 - [DevHomeOps](https://github.com/SafoM#devhomeops)
 
 
-### Personal Computer Build
-
-#### Current Build
-
-#### Future Build
-- https://ca.pcpartpicker.com/user/Trieze.Khushrenada/saved/#view=9DcmkL 
-#
 
 
 ### Web Applications
